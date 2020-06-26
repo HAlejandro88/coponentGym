@@ -24,6 +24,6 @@
 
 PRs accepted. Please, contributing
 
-## License
+## Autor
 
-MIT © Alfonso Ríos
+© Alejandro Soto
